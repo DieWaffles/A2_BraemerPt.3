@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/forBut"
+    android:orderInCategory="1"
+    android:title="go Forward"/>
+<item
+    android:id="@+id/backBut"
+    android:orderInCategory="2"
+    android:title="go Back"/>
+<item
+    android:id="@+id/viewBookBut"
+    android:orderInCategory="3"
+    android:title="bookmarks"/>
+</menu>
